@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/nemiah/StudioProjects/openWaWiAndroid/app/libs/core.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b2fc078692d1736ed87b3f4a8d94469d91cb816f">
+        <dex dex="/home/nemiah/StudioProjects/openWaWiAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/2/core_e2d0c5580ce0a04e8fce5302d3485f8c2334ae50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nemiah/StudioProjects/openWaWiAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f4b26b96386d7ae095c4a4c64e341ae85f6029fa">
+        <dex dex="/home/nemiah/StudioProjects/openWaWiAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a8dffe314d5abd63f0e6c90f8a10eb406f117531/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nemiah/Programme/AndroidSDK/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/nemiah/StudioProjects/openWaWiAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_1f2b4ce15f2e629653c1c81a6f3def0bd70724c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nemiah/StudioProjects/openWaWiAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6d86140105b35af212a47ab4c5fdda7dd28f0288">
+        <dex dex="/home/nemiah/StudioProjects/openWaWiAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fd39ca3f841ea15b1fe38f7fcdb5a820b427616e/classes.dex" />
+    </item>
+
+</items>

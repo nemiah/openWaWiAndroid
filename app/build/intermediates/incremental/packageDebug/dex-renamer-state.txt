@@ -1,0 +1,7 @@
+#Sun Oct 30 20:25:00 CET 2016
+base.0=/home/nemiah/StudioProjects/openWaWiAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a8dffe314d5abd63f0e6c90f8a10eb406f117531
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/nemiah/StudioProjects/openWaWiAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fd39ca3f841ea15b1fe38f7fcdb5a820b427616e/classes.dex
+base.1=/home/nemiah/StudioProjects/openWaWiAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fd39ca3f841ea15b1fe38f7fcdb5a820b427616e
+file.0=/home/nemiah/StudioProjects/openWaWiAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a8dffe314d5abd63f0e6c90f8a10eb406f117531/classes.dex
